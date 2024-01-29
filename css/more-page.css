@@ -1,0 +1,11 @@
+p {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  outline: 2px solid #ff014f;
+  width: 75%;
+  margin: 10px;
+  gap: 1em;
+  color: #252525;
+  background-color: #daf5f1;
+}
